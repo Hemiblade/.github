@@ -26,17 +26,9 @@ We help organizations and industries transform their operations through digital 
 | **Scalability** | Solutions that grow with your business needs. |
 | **Specialized Support** | Direct technical support and ongoing guidance for every project. |
 
-<div style="display: grid; grid-template-columns: repeat(12, 1fr); gap: 12px; margin: 40px 0; align-items: center;">
-  <div style="grid-column: span 6;">
-    <img src="images/hemible-logo.png" alt="Hemiblade Software logo" style="width: 100%; height: 100%; object-fit: contain; border-radius: 8px;" />
-  </div>
-  <div style="grid-column: span 6;">
-    <img src="images/ifa-logo.webp" alt="IFA platform logo" style="width: 100%; height: 100%; object-fit: contain; border-radius: 8px;" />
-  </div>
-  <div style="grid-column: span 12;">
-    <img src="images/ifa-001.png" alt="IFA platform dashboard" style="width: 100%; height: auto; object-fit: cover; border-radius: 8px;" />
-  </div>
-</div>
+<p align='center'>
+  <img src='images/hemible-logo.png' alt='Hemiblade Software logo' width='520' />
+</p>
 
 ## Contact and Support
 
