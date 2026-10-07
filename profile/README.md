@@ -48,7 +48,5 @@ We help organizations and industries transform their operations through digital 
 
 ## Contact and Support
 
-- **Email:** contact@hemiblade.com
-- **Support:** soporte@hemiblade.com
 - **Website:** [hemiblade.com](https://hemiblade.com)
 - **Location:** Dominican Republic
